@@ -14,7 +14,7 @@
     "aos": "^3.0.0-beta.6",
     "axios": "^1.4.0",
     "pinia": "^2.0.36",
-    "sweetalert2": "^11.7.11",
+    "sweetalert2": "^11.6.13",
     "vue": "^3.3.2",
     "vue-router": "^4.2.0"
   },
